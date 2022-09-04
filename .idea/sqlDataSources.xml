@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="d9333d1a-367e-424a-8c0e-72401aa30dfa" name="@tts-app-database Mapping">
+      <data-sources db="1f3659c1-d0f1-4643-bbbb-5c12c1dca714" />
+      <scope>
+        <node kind="database" qname="tts-java-database">
+          <node kind="schema" qname="@" />
+        </node>
+      </scope>
+    </mapping>
+  </component>
+</project>
